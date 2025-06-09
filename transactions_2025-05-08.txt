@@ -1,0 +1,12 @@
+--- Transaction: 2025-05-08 13:49:33 ---
+  Item: Bar Soap (ID: 16), Qty: 6, Unit Price: 28.00, Subtotal: 168.00
+  Order Subtotal: 168.00
+  Discount Applied: 10.0%
+  Discount Amount: 16.80
+  Subtotal After Discount: 151.20
+  Tax (8%): 12.10
+  Total Amount: 163.30
+  Payment Received: 180.00
+  Change Given: 16.70
+--------------------------------------------------
+

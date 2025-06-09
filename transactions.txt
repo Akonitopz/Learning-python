@@ -1,0 +1,14 @@
+2025-05-05 00:54:42 - Purchased 10 x Cooking Oil (1L) = ₱1500
+2025-05-05 00:54:55 - Purchased 10 x Canned Beans (400g) = ₱500
+2025-05-05 01:41:36 - Purchased 17 x Rice (5kg) = ₱30600
+2025-05-05 01:51:03 - Purchased 10 x Sugar (1kg) = ₱600
+2025-05-05 01:51:12 - Purchased 10 x Tea (100g) = ₱500
+2025-05-05 01:51:25 - Purchased 15 x Rice (5kg) = ₱27000
+2025-05-05 01:51:52 - Purchased 15 x Salt (500g) = ₱300
+2025-05-05 01:57:30 - Purchased 2 x Sugar (1kg) = ₱120
+2025-05-05 01:57:38 - Purchased 23 x Canned Beans (400g) = ₱1150
+2025-05-09 16:12:14 - Purchased 20 x Salt (500g) = ₱400
+2025-05-09 16:12:41 - Purchased 10 x Coffee (250g) = ₱1200
+2025-05-09 16:13:07 - Purchased 10 x Instant Noodles (5 packs) = ₱500
+2025-05-09 16:14:15 - Purchased 20 x Rice (5kg) = ₱36000
+2025-05-09 16:15:32 - Purchased 20 x Rice (5kg) = ₱36000

@@ -1,0 +1,18 @@
+Daily Sales Report - 2025-05-09
+========================================
+
+--- Product Sales Summary ---
+- Biscuits (Small Pack): Qty: 10, Value: P80.00
+- Canned Sardines: Qty: 5, Value: P125.00
+- Cooking Oil (Pouch 50ml): Qty: 15, Value: P225.00
+- Dishwashing Liquid (Sachet): Qty: 26, Value: P260.00
+- Instant Noodles: Qty: 15, Value: P180.00
+
+--- Financial Summary ---
+Total Gross Sales (after discounts, before tax): P870.00
+Total Discounts Given: P0.00
+Total Tax Collected: P69.60
+Total Net Sales (including tax): P939.60
+
+========================================
+End of Report

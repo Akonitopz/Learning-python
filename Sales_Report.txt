@@ -1,0 +1,14 @@
+Sales Report
+Date and Time of Sale: 2025-04-20  23:07:33
+--------------------------------------------------
+Item                                    Selling Price  Quantity  
+Selecta Ice Cream (1.3L)                ₱176.0          13        
+Nissin Cup Noodles                      ₱24.2           13        
+Chippy BBQ Flavor                       ₱8.8            13        
+M.Y. San Grahams                        ₱35.2           13        
+Nestea Iced Tea Powder                  ₱13.2           25        
+
+Total Sale: 3504.6
+Profit: ₱318.6 as of <2025-04-20  23:07:33>
+
+--------------------------------------------------

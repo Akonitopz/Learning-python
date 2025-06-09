@@ -1,0 +1,128 @@
+[
+    {
+        "Item": "Lucky Me Pancit Canton",
+        "Inventory count": 38.0,
+        "Purchase Price": 9.0,
+        "Selling Price": 9.9
+    },
+    {
+        "Item": "SkyFlakes Crackers",
+        "Inventory count": 38.0,
+        "Purchase Price": 12.0,
+        "Selling Price": 13.2
+    },
+    {
+        "Item": "Argentina Corned Beef",
+        "Inventory count": 38.0,
+        "Purchase Price": 25.0,
+        "Selling Price": 27.5
+    },
+    {
+        "Item": "Silver Swan Soy Sauce",
+        "Inventory count": 50,
+        "Purchase Price": 8.0,
+        "Selling Price": 8.8
+    },
+    {
+        "Item": "Datu Puti Vinegar",
+        "Inventory count": 50,
+        "Purchase Price": 9.0,
+        "Selling Price": 9.9
+    },
+    {
+        "Item": "Great Taste White Coffee",
+        "Inventory count": 50,
+        "Purchase Price": 5.0,
+        "Selling Price": 5.5
+    },
+    {
+        "Item": "C2 Green Tea",
+        "Inventory count": 50,
+        "Purchase Price": 12.0,
+        "Selling Price": 13.2
+    },
+    {
+        "Item": "Oishi Prawn Crackers",
+        "Inventory count": 50,
+        "Purchase Price": 6.0,
+        "Selling Price": 6.6
+    },
+    {
+        "Item": "Jack n' Jill Piattos",
+        "Inventory count": 50,
+        "Purchase Price": 8.0,
+        "Selling Price": 8.8
+    },
+    {
+        "Item": "Nestl\u00e9 Chuckie",
+        "Inventory count": 50,
+        "Purchase Price": 12.0,
+        "Selling Price": 13.2
+    },
+    {
+        "Item": "Century Tuna Flakes in Oil",
+        "Inventory count": 50,
+        "Purchase Price": 20.0,
+        "Selling Price": 22.0
+    },
+    {
+        "Item": "Colgate Toothpaste 35g",
+        "Inventory count": 50,
+        "Purchase Price": 18.0,
+        "Selling Price": 19.8
+    },
+    {
+        "Item": "Safeguard Soap 90g",
+        "Inventory count": 50,
+        "Purchase Price": 15.0,
+        "Selling Price": 16.5
+    },
+    {
+        "Item": "Palmolive Shampoo Sachet",
+        "Inventory count": 50,
+        "Purchase Price": 6.0,
+        "Selling Price": 6.6
+    },
+    {
+        "Item": "Rebisco Crackers",
+        "Inventory count": 50,
+        "Purchase Price": 7.0,
+        "Selling Price": 7.7
+    },
+    {
+        "Item": "Nestea Iced Tea Powder",
+        "Inventory count": 50,
+        "Purchase Price": 12.0,
+        "Selling Price": 13.2
+    },
+    {
+        "Item": "M.Y. San Grahams",
+        "Inventory count": 50,
+        "Purchase Price": 32.0,
+        "Selling Price": 35.2
+    },
+    {
+        "Item": "Chippy BBQ Flavor",
+        "Inventory count": 50,
+        "Purchase Price": 8.0,
+        "Selling Price": 8.8
+    },
+    {
+        "Item": "Nissin Cup Noodles",
+        "Inventory count": 50,
+        "Purchase Price": 22.0,
+        "Selling Price": 24.2
+    },
+    {
+        "Item": "Selecta Ice Cream (1.3L)",
+        "Inventory count": 50,
+        "Purchase Price": 160.0,
+        "Selling Price": 176.0
+    },
+    {
+        "Item": "Freska Tuna",
+        "Inventory count": 50,
+        "Purchase Price": 10.0,
+        "Selling Price": 11.0
+    }
+]

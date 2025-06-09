@@ -1,0 +1,21 @@
+--- Transaction: 2025-05-09 16:01:55 ---
+  Item: Instant Noodles (ID: 1), Qty: 15, Unit Price: 12.00, Subtotal: 180.00
+  Item: Cooking Oil (Pouch 50ml) (ID: 12), Qty: 15, Unit Price: 15.00, Subtotal: 225.00
+  Item: Dishwashing Liquid (Sachet) (ID: 15), Qty: 26, Unit Price: 10.00, Subtotal: 260.00
+  Item: Biscuits (Small Pack) (ID: 5), Qty: 10, Unit Price: 8.00, Subtotal: 80.00
+  Order Subtotal: 745.00
+  Tax (8%): 59.60
+  Total Amount: 804.60
+  Payment Received: 1000.00
+  Change Given: 195.40
+--------------------------------------------------
+
+--- Transaction: 2025-05-09 16:03:08 ---
+  Item: Canned Sardines (ID: 2), Qty: 5, Unit Price: 25.00, Subtotal: 125.00
+  Order Subtotal: 125.00
+  Tax (8%): 10.00
+  Total Amount: 135.00
+  Payment Received: 150.00
+  Change Given: 15.00
+--------------------------------------------------
+

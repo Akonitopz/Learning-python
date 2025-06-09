@@ -1,0 +1,14 @@
+Daily Sales Report - 2025-05-08
+========================================
+
+--- Product Sales Summary ---
+- Bar Soap: Qty: 6, Value: P168.00
+
+--- Financial Summary ---
+Total Gross Sales (after discounts, before tax): P151.20
+Total Discounts Given: P16.80
+Total Tax Collected: P12.10
+Total Net Sales (including tax): P163.30
+
+========================================
+End of Report

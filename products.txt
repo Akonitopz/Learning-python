@@ -1,0 +1,20 @@
+1|Instant Noodles|12.0|Food|10
+2|Canned Sardines|25.0|Food|60
+3|Softdrinks (Can)|18.0|Drinks|20
+4|Snack Chips (Small)|10.0|Snacks|25
+5|Biscuits (Small Pack)|8.0|Snacks|20
+6|Coffee Stick (3-in-1)|7.0|Drinks|40
+7|Laundry Soap (Bar)|22.0|Non-Food|12
+8|Shampoo Sachet|6.0|Personal Care|50
+9|Toothpaste (Small)|35.0|Personal Care|18
+10|Bottled Water (500ml)|15.0|Drinks|35
+11|Powdered Milk (Sachet)|10.0|Food|45
+12|Cooking Oil (Pouch 50ml)|15.0|Food|15
+13|Soy Sauce (Small Pouch)|10.0|Food|28
+14|Vinegar (Small Pouch)|8.0|Food|26
+15|Dishwashing Liquid (Sachet)|10.0|Non-Food|7
+16|Bar Soap|28.0|Personal Care|16
+17|Eggs (Per Piece)|7.5|Food|40
+18|Bread (Mini Loaf)|25.0|Food|15
+19|Margarine (Sachet)|12.0|Food|20
+20|Sweets (Small Pack)|5.0|Snacks|50
