@@ -1,7 +1,7 @@
 [
     {
         "Item": "Lucky Me Pancit Canton",
-        "Inventory count": 38.0,
+        "Inventory count": 26.0,
         "Purchase Price": 9.0,
         "Selling Price": 9.9
     },
@@ -43,13 +43,13 @@
     },
     {
         "Item": "Oishi Prawn Crackers",
-        "Inventory count": 50,
+        "Inventory count": 38.0,
         "Purchase Price": 6.0,
         "Selling Price": 6.6
     },
     {
         "Item": "Jack n' Jill Piattos",
-        "Inventory count": 50,
+        "Inventory count": 27.0,
         "Purchase Price": 8.0,
         "Selling Price": 8.8
     },
@@ -61,7 +61,7 @@
     },
     {
         "Item": "Century Tuna Flakes in Oil",
-        "Inventory count": 50,
+        "Inventory count": 27.0,
         "Purchase Price": 20.0,
         "Selling Price": 22.0
     },
@@ -85,7 +85,7 @@
     },
     {
         "Item": "Rebisco Crackers",
-        "Inventory count": 50,
+        "Inventory count": 38.0,
         "Purchase Price": 7.0,
         "Selling Price": 7.7
     },
